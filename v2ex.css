@@ -1,26 +1,26 @@
 @font-face {
   font-family: "Roboto";
-  src: url("//dn-startplay.qbox.me/v2ex-material-theme2/font/Roboto-Thin.ttf");
+  src: url("//plays.b0.upaiyun.com/v2ex-material-theme2/font/Roboto-Thin.ttf");
   font-weight: 200;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("//dn-startplay.qbox.me/v2ex-material-theme2/font/Roboto-Light.ttf");
+  src: url("//plays.b0.upaiyun.com/v2ex-material-theme2/font/Roboto-Light.ttf");
   font-weight: 300;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("//dn-startplay.qbox.me/v2ex-material-theme2/font/Roboto-Regular.ttf");
+  src: url("//plays.b0.upaiyun.com/v2ex-material-theme2/font/Roboto-Regular.ttf");
   font-weight: 400;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("//dn-startplay.qbox.me/v2ex-material-theme2/font/Roboto-Medium.ttf");
+  src: url("//plays.b0.upaiyun.com/v2ex-material-theme2/font/Roboto-Medium.ttf");
   font-weight: 500;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("//dn-startplay.qbox.me/v2ex-material-theme2/font/Roboto-Bold.ttf");
+  src: url("//plays.b0.upaiyun.com/v2ex-material-theme2/font/Roboto-Bold.ttf");
   font-weight: 700;
 }
 html,
@@ -73,7 +73,7 @@ a:active {
   padding-top: 4px;
   width: 94px;
   height: 30px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/img/logo@2x.png") no-repeat 0 4px;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/img/logo@2x.png") no-repeat 0 4px;
   background-size: 94px 30px;
   user-modify: read-only;
   -moz-user-modify: read-only;
@@ -87,7 +87,7 @@ a:active {
   right: 20px;
 }
 #Search form div {
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/search.svg") no-repeat 10px center rgba(255, 255, 255, 0.15) !important;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/search.svg") no-repeat 10px center rgba(255, 255, 255, 0.15) !important;
   border-radius: 2px;
   height: 36px!important;
   width: 820px!important;
@@ -107,7 +107,7 @@ a:active {
   top: 10px;
   width: 36px;
   height: 36px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/menu_grey.svg") no-repeat center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/menu_grey.svg") no-repeat center;
   cursor: pointer;
   user-modify: read-write;
   -moz-user-modify: read-write;
@@ -201,31 +201,31 @@ a:active {
 }
 #Top td:last-child a[href='https://workspace.v2ex.com/'] {
   top: 24px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/group_work.svg") no-repeat 24px center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/group_work.svg") no-repeat 24px center;
 }
 #Top td:last-child a[href='/notes'] {
   top: 72px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/book.svg") no-repeat 24px center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/book.svg") no-repeat 24px center;
 }
 #Top td:last-child a[href='/t'] {
   top: 120px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/access_time.svg") no-repeat 24px center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/access_time.svg") no-repeat 24px center;
 }
 #Top td:last-child a[href='/events'] {
   top: 168px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/event.svg") no-repeat 24px center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/event.svg") no-repeat 24px center;
 }
 #Top td:last-child a[href^='/place/'] {
   top: 216px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/explore.svg") no-repeat 24px center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/explore.svg") no-repeat 24px center;
 }
 #Top td:last-child a[href='/settings'] {
   bottom: 72px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/settings.svg") no-repeat 24px center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/settings.svg") no-repeat 24px center;
 }
 #Top td:last-child a:last-child {
   bottom: 24px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/exit_to_app.svg") no-repeat 24px center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/exit_to_app.svg") no-repeat 24px center;
 }
 #Rightbar {
   visibility: hidden;
@@ -258,11 +258,11 @@ a:active {
 }
 #Rightbar .inner > a[href='/notifications'] {
   right: 74px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/notifications_none.svg") no-repeat center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/notifications_none.svg") no-repeat center;
 }
 #Rightbar .inner > strong > a[href='/notifications'] {
   right: 74px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/notifications_none_hl.svg") no-repeat center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/notifications_none_hl.svg") no-repeat center;
 }
 #Rightbar > .box:nth-child(2) td:first-child a[href^='/member/'] {
   right: 26px;
@@ -274,7 +274,7 @@ a:active {
 }
 #Rightbar a[href='/mission/daily'] {
   right: 170px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/wallet_giftcard_hl.svg") no-repeat center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/wallet_giftcard_hl.svg") no-repeat center;
 }
 #Rightbar .sep20:first-child {
   visibility: visible;
@@ -414,7 +414,7 @@ a:active {
 }
 #Rightbar > .box:nth-last-of-type(10) .gray {
   right: 122px;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/apps.svg") no-repeat center;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/apps.svg") no-repeat center;
   user-modify: read-write;
   -moz-user-modify: read-write;
   -webkit-user-modify: read-write;
@@ -502,7 +502,7 @@ a:active {
   height: 56px;
   color: rgba(255, 255, 255, 0);
   visibility: visible;
-  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/add.svg") no-repeat center #db4437;
+  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/add.svg") no-repeat center #db4437;
   z-index: 99;
   cursor: pointer;
   border-radius: 100%;
