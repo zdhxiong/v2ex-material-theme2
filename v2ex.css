@@ -31,6 +31,9 @@ body {
 *:focus {
   outline: none;
 }
+.jar {
+  display: none;
+}
 a:link,
 a:visited,
 a:active {
