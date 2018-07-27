@@ -31,8 +31,8 @@ body {
 *:focus {
   outline: none;
 }
-[name*="google_ads_frame"] {
-  display: none;
+.adsbygoogle {
+  display: none !important;
 }
 a:link,
 a:visited,
