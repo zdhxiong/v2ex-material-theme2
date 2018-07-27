@@ -31,7 +31,7 @@ body {
 *:focus {
   outline: none;
 }
-.jar {
+[name*="google_ads_frame"] {
   display: none;
 }
 a:link,
