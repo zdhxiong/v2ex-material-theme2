@@ -1,26 +1,26 @@
 @font-face {
   font-family: "Roboto";
-  src: url("//plays.b0.upaiyun.com/v2ex-material-theme2/font/Roboto-Thin.ttf");
+  src: url("//play.cdn.w3cbus.com/v2ex-material-theme2/font/Roboto-Thin.ttf");
   font-weight: 200;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("//plays.b0.upaiyun.com/v2ex-material-theme2/font/Roboto-Light.ttf");
+  src: url("//play.cdn.w3cbus.com/v2ex-material-theme2/font/Roboto-Light.ttf");
   font-weight: 300;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("//plays.b0.upaiyun.com/v2ex-material-theme2/font/Roboto-Regular.ttf");
+  src: url("//play.cdn.w3cbus.com/v2ex-material-theme2/font/Roboto-Regular.ttf");
   font-weight: 400;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("//plays.b0.upaiyun.com/v2ex-material-theme2/font/Roboto-Medium.ttf");
+  src: url("//play.cdn.w3cbus.com/v2ex-material-theme2/font/Roboto-Medium.ttf");
   font-weight: 500;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("//plays.b0.upaiyun.com/v2ex-material-theme2/font/Roboto-Bold.ttf");
+  src: url("//play.cdn.w3cbus.com/v2ex-material-theme2/font/Roboto-Bold.ttf");
   font-weight: 700;
 }
 html,
@@ -80,10 +80,10 @@ a:active {
   -webkit-user-modify: read-only;
 }
 #Top #Logo {
-  background-image: url("//plays.b0.upaiyun.com/v2ex-material-theme2/img/logo@2x.png");
+  background-image: url("//play.cdn.w3cbus.com/v2ex-material-theme2/img/logo@2x.png");
 }
 #Search form div {
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/search.svg") no-repeat 10px center rgba(255, 255, 255, 0.15) !important;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/search.svg") no-repeat 10px center rgba(255, 255, 255, 0.15) !important;
   border-radius: 2px;
   height: 36px!important;
   width: 820px!important;
@@ -103,7 +103,7 @@ a:active {
   top: 10px;
   width: 36px;
   height: 36px;
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/menu_grey.svg") no-repeat center;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/menu_grey.svg") no-repeat center;
   cursor: pointer;
   user-modify: read-write;
   -moz-user-modify: read-write;
@@ -183,19 +183,19 @@ a:active {
 }
 #Top td:last-child a[href='/notes'] {
   top: 24px;
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/book.svg") no-repeat 24px center;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/book.svg") no-repeat 24px center;
 }
 #Top td:last-child a[href='/t'] {
   top: 72px;
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/access_time.svg") no-repeat 24px center;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/access_time.svg") no-repeat 24px center;
 }
 #Top td:last-child a[href='/settings'] {
   bottom: 72px;
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/settings.svg") no-repeat 24px center;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/settings.svg") no-repeat 24px center;
 }
 #Top td:last-child a:last-child {
   bottom: 24px;
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/exit_to_app.svg") no-repeat 24px center;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/exit_to_app.svg") no-repeat 24px center;
 }
 #Rightbar {
   visibility: hidden;
@@ -228,11 +228,11 @@ a:active {
 }
 #Rightbar .inner > a[href='/notifications'] {
   right: 74px;
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/notifications_none.svg") no-repeat center;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/notifications_none.svg") no-repeat center;
 }
 #Rightbar .inner > strong > a[href='/notifications'] {
   right: 74px;
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/notifications_none_hl.svg") no-repeat center;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/notifications_none_hl.svg") no-repeat center;
 }
 #Rightbar > .box:nth-child(2) td:first-child a[href^='/member/'] {
   right: 26px;
@@ -244,7 +244,7 @@ a:active {
 }
 #Rightbar a[href='/mission/daily'] {
   right: 170px;
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/wallet_giftcard_hl.svg") no-repeat center;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/wallet_giftcard_hl.svg") no-repeat center;
 }
 #Rightbar .sep20:first-child {
   visibility: visible;
@@ -384,7 +384,7 @@ a:active {
 }
 #Rightbar > .box:nth-last-of-type(10) .gray {
   right: 122px;
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/apps.svg") no-repeat center;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/apps.svg") no-repeat center;
   user-modify: read-write;
   -moz-user-modify: read-write;
   -webkit-user-modify: read-write;
@@ -472,7 +472,7 @@ a:active {
   height: 56px;
   color: rgba(255, 255, 255, 0);
   visibility: visible;
-  background: url("//plays.b0.upaiyun.com/v2ex-material-theme2/icon/add.svg") no-repeat center #db4437;
+  background: url("//play.cdn.w3cbus.com/v2ex-material-theme2/icon/add.svg") no-repeat center #db4437;
   z-index: 99;
   cursor: pointer;
   border-radius: 100%;
